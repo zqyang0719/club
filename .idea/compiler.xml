@@ -9,6 +9,8 @@
         <module name="club" />
         <module name="config-server" />
         <module name="eureka" />
+        <module name="feign-client" />
+        <module name="gateway-zuul" />
         <module name="place" />
       </profile>
     </annotationProcessing>
@@ -16,6 +18,8 @@
       <module name="club" target="1.5" />
       <module name="config-server" target="1.8" />
       <module name="eureka" target="1.8" />
+      <module name="feign-client" target="1.8" />
+      <module name="gateway-zuul" target="1.8" />
       <module name="place" target="1.8" />
     </bytecodeTargetLevel>
   </component>

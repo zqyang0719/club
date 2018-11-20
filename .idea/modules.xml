@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/club.iml" filepath="$PROJECT_DIR$/club.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-client/feign-client.iml" filepath="$PROJECT_DIR$/feign-client/feign-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-zuul/gateway-zuul.iml" filepath="$PROJECT_DIR$/gateway-zuul/gateway-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/place/place.iml" filepath="$PROJECT_DIR$/place/place.iml" />
     </modules>
   </component>
