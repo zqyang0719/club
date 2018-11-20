@@ -14,7 +14,7 @@ public class PlaceController {
     public PlaceFeignClient placeFeignClient;
 
     @RequestMapping(value = "/hello",method= RequestMethod.GET)
-    public String hello(@RequestParam String name){
+    public String hello(@RequestParam("name") String name){
         return placeFeignClient.hello(name);
     }
 }
