@@ -12,6 +12,7 @@
         <module name="feign-client" />
         <module name="gateway-zuul" />
         <module name="place" />
+        <module name="sso" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -21,6 +22,7 @@
       <module name="feign-client" target="1.8" />
       <module name="gateway-zuul" target="1.8" />
       <module name="place" target="1.8" />
+      <module name="sso" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/feign-client/feign-client.iml" filepath="$PROJECT_DIR$/feign-client/feign-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/gateway-zuul/gateway-zuul.iml" filepath="$PROJECT_DIR$/gateway-zuul/gateway-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/place/place.iml" filepath="$PROJECT_DIR$/place/place.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sso/sso.iml" filepath="$PROJECT_DIR$/sso/sso.iml" />
     </modules>
   </component>
 </project>
